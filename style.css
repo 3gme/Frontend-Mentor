@@ -596,12 +596,13 @@ video {
   text-align: center;
 }
 
-.text-\[15px\] {
-  font-size: 15px;
+.text-\[13px\] {
+  font-size: 13px;
 }
 
-.text-\[20px\] {
-  font-size: 20px;
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 .font-bold {
