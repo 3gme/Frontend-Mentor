@@ -627,11 +627,11 @@ video {
 .box {
   height: -moz-fit-content;
   height: fit-content;
-  width: 310px;
+  width: 305px;
   border-radius: 0.75rem;
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
-  padding: 0.625rem;
+  padding: 0.875rem;
 }
 
 .box img {
